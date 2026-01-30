@@ -3,7 +3,9 @@
 Telco Customer Churn Analysis
 End-to-End Analytics Pipeline (7,043 Customers)
 
- Business Problem
+
+
+ **Business Problem**
 26.5% monthly churn costing $1.6M+ annual revenue. Identify at-risk customers and retention opportunities.
 
 Key Findings (Validated Across 4 Tools)
@@ -14,13 +16,14 @@ HIGH-RISK SEGMENTS (49% Churn):
 Expected ROI: **$1.67M annual revenue protected**
 
 
-CONTRACT POWER:
+
+**CONTRACT POWER**:
 • Month-to-month: 46.4% churn
 • Two-year: 1.6% churn (29X retention boost)
 
 
 
-TECHNICAL STACK
+**TECHNICAL STACK**
  EXCEL: PivotTable segmentation (Contract × Payment × Tenure)
 SQL: Aggregations confirming 46% vs 1.6% contract churn  
 PYTHON/COLAB: Churn risk scoring + feature engineering
@@ -28,7 +31,7 @@ TABLEAU: Executive dashboard (4 sheets + interactivity)
 
 
 
-RETENTION STRATEGY 25-35% STRATEGY
+**RETENTION STRATEGY 25-35% Reduction**
 Priority 1 (704 customers, Score 80-100):
 • Daily save calls + 6-month contract offers ($10/mo discount)
 
@@ -39,7 +42,7 @@ Expected ROI: $1.67M revenue protected
 
 
 
-VISUALIZATIONS
+**VISUALIZATIONS**
 • Excel: Contract pivot (49% insight)
 • Python: Risk score vs actual churn line chart
 • Tableau: Executive KPI dashboard + tenure trends
@@ -47,7 +50,7 @@ VISUALIZATIONS
 
 
 
-IMPACTS
+**IMPACTS**
 • Identified $1.67M revenue opportunity
 • Prioritized 2,116 customers (78% of churners)
 • Cross-validated insights across Excel/SQL/Python/Tableau
@@ -55,14 +58,14 @@ IMPACTS
 
 
 
-NEXT STEP
+**NEXT STEP**
 1. Deploy risk scoring → Daily save lists
 2. A/B test retention offers (contract + auto-pay)
 3. Logistic regression churn prediction model
 4. Power BI recreation (6th tool mastery)
 
 
-VISUALS
+**VISUALS**
 
 <img width="1907" height="843" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/464a233f-ad22-46ba-a8c8-19dbf2cd109b" />
 
