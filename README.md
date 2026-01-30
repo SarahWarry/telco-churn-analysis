@@ -24,10 +24,10 @@ Expected ROI: **$1.67M annual revenue protected**
 
 
 **TECHNICAL STACK**
- EXCEL: PivotTable segmentation (Contract × Payment × Tenure)
-SQL: Aggregations confirming 46% vs 1.6% contract churn  
-PYTHON/COLAB: Churn risk scoring + feature engineering
-TABLEAU: Executive dashboard (4 sheets + interactivity)
+ **EXCEL**: PivotTable segmentation (Contract × Payment × Tenure)
+**SQL**: Aggregations confirming 46% vs 1.6% contract churn  
+**PYTHON/COLAB**: Churn risk scoring + feature engineering
+**TABLEAU**: Executive dashboard (4 sheets + interactivity)
 
 
 
