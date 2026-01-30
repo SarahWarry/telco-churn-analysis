@@ -43,6 +43,15 @@ IMPACTS
 • Prioritized 2,116 customers (78% of churners)
 • Cross-validated insights across Excel/SQL/Python/Tableau
 • ML-ready dataset for logistic regression
+<img width="1907" height="843" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/464a233f-ad22-46ba-a8c8-19dbf2cd109b" />
+
+<img width="1337" height="670" alt="Feature Importance" src="https://github.com/user-attachments/assets/803d9578-5a4e-4092-8659-eb99ab84229a" />
+
+<img width="1317" height="472" alt="Risk score vs Churn" src="https://github.com/user-attachments/assets/f0bdbb5c-ce5d-450c-a07a-8f4511616b83" />
+
+<img width="801" height="703" alt="Contract Pivot" src="https://github.com/user-attachments/assets/792aad48-6b14-4176-b315-293fb84f72b3" />
+
+
 
 NEXT STEP
 1. Deploy risk scoring → Daily save lists
