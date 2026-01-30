@@ -43,6 +43,13 @@ IMPACTS
 • Prioritized 2,116 customers (78% of churners)
 • Cross-validated insights across Excel/SQL/Python/Tableau
 • ML-ready dataset for logistic regression
+
+
+NEXT STEP
+1. Deploy risk scoring → Daily save lists
+2. A/B test retention offers (contract + auto-pay)
+3. Logistic regression churn prediction model
+4. Power BI recreation (6th tool mastery)
 <img width="1907" height="843" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/464a233f-ad22-46ba-a8c8-19dbf2cd109b" />
 
 <img width="1337" height="670" alt="Feature Importance" src="https://github.com/user-attachments/assets/803d9578-5a4e-4092-8659-eb99ab84229a" />
@@ -53,9 +60,4 @@ IMPACTS
 
 
 
-NEXT STEP
-1. Deploy risk scoring → Daily save lists
-2. A/B test retention offers (contract + auto-pay)
-3. Logistic regression churn prediction model
-4. Power BI recreation (6th tool mastery)
 
