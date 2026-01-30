@@ -17,11 +17,16 @@ Expected ROI: **$1.67M annual revenue protected**
 CONTRACT POWER:
 • Month-to-month: 46.4% churn
 • Two-year: 1.6% churn (29X retention boost)
+
+
+
 TECHNICAL STACK
  EXCEL: PivotTable segmentation (Contract × Payment × Tenure)
 SQL: Aggregations confirming 46% vs 1.6% contract churn  
 PYTHON/COLAB: Churn risk scoring + feature engineering
 TABLEAU: Executive dashboard (4 sheets + interactivity)
+
+
 
 RETENTION STRATEGY 25-35% STRATEGY
 Priority 1 (704 customers, Score 80-100):
@@ -32,11 +37,15 @@ Priority 2 (1,412 customers, Score 60-79):
 
 Expected ROI: $1.67M revenue protected
 
+
+
 VISUALIZATIONS
 • Excel: Contract pivot (49% insight)
 • Python: Risk score vs actual churn line chart
 • Tableau: Executive KPI dashboard + tenure trends
 • SQL: Raw counts validation
+
+
 
 IMPACTS
 • Identified $1.67M revenue opportunity
@@ -45,11 +54,16 @@ IMPACTS
 • ML-ready dataset for logistic regression
 
 
+
 NEXT STEP
 1. Deploy risk scoring → Daily save lists
 2. A/B test retention offers (contract + auto-pay)
 3. Logistic regression churn prediction model
 4. Power BI recreation (6th tool mastery)
+
+
+VISUALS
+
 <img width="1907" height="843" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/464a233f-ad22-46ba-a8c8-19dbf2cd109b" />
 
 <img width="1337" height="670" alt="Feature Importance" src="https://github.com/user-attachments/assets/803d9578-5a4e-4092-8659-eb99ab84229a" />
