@@ -9,7 +9,8 @@ End-to-End Analytics Pipeline (7,043 Customers)
 26.5% monthly churn costing $1.6M+ annual revenue. Identify at-risk customers and retention opportunities.
 
 Key Findings (Validated Across 4 Tools)
-HIGH-RISK SEGMENTS (49% Churn):
+
+**High Risk Segments** (49% Churn):
  Risk score 80-100 = 704 customers 
     **$139K/MONTH** ($1.67M/year) revenue at risk 
 
