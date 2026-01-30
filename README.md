@@ -1,4 +1,4 @@
-# telco-churn-analysis
+# Telco Churn Analysis
 **End-to-end telecom churn analysis (26.5% churn → $1.67M revenue opportunity). Excel/SQL/Python/Tableau pipeline identifies high-risk segments for retention. Executive dashboard + ML-ready dataset.**
 Telco Customer Churn Analysis
 End-to-End Analytics Pipeline (7,043 Customers)
